@@ -1,0 +1,13 @@
+{
+    "name": "smarty-vs-twig",
+    "description": "test",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "smarty/smarty": "dev-trunk",
+        "twig/twig": "1.13.*@dev",
+        "fzaninotto/faker": "1.2.*@dev"
+    }
+}
